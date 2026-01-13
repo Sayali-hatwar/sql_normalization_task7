@@ -1,1 +1,3 @@
 # sql_normalization_task7
+
+In this task, transformed a messy, "flat" table of school data into a clean, organized relational database. Initially, information about doctos, patients, and appointments was all mixed together, which caused data to repeat and increased the risk of errors—for example, updating a hospitals's data required changing it in every single row. By applying the principles of Database Normalization, broke this complex table into three logical parts: Doctor, Patient and Appointment. This ensures that every piece of information is stored in exactly one place, making the database more efficient, easier to maintain, and ready for professional use.
